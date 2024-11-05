@@ -4,7 +4,7 @@ import { Container, Button, Typography, Box } from '@mui/material';
 import './App.css';
 
 const videoList = [
-  "https://r10104.yandexwebcache.org/jujutsu-kaisen/1.1080.812841b2c0546248.mp4?hash1=5bdb5f534eccb7d06cde17d84c52beb2&hash2=89078d004fdb8bde28277b543f32b8db",
+  "https://youtu.be/DEqkukrLRYQ",
   "https://r10104.yandexwebcache.org/jujutsu-kaisen/2.1080.00e82869f54154d8.mp4?hash1=7100958f6916ba233ef5ce6bd39101bb&hash2=9c597d4bf68359d68a8f6b4a1f0e2542",
   "https://r10104.yandexwebcache.org/jujutsu-kaisen/3.1080.3ab1a0c4b449d8f9.mp4?hash1=be39c345502100b67dfc0fa522b838cd&hash2=db05d411d8440eb3533a6629a8422454",
 ];
